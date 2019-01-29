@@ -19,6 +19,11 @@ Using *pip*:
 pip install cometblue
 ```
 
+Installing (non PIP) requirements for Ubuntu Xenial:
+```
+sudo apt-get install libbluetooth-dev  libglib2.0-dev libboost-python-dev libboost-all-dev
+```
+
 ## Command line tool
 ### Generic options
 ```
